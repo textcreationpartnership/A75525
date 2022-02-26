@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The apprehending of Captayne Butler at Portchmouth in the county of Southampton and his followers, who were bound with bullets and ammunition for Ireland, in the shipp called the Olive As also the true relation of a terrible sea fight by the States of Holland, against a fleet of the Spannish being furnished with men and ammonition [sic] for assistance to the rebels in Irland [sic] wherein was taken 23 sayle of their ships, as also their vice-admirall Don Eaustans sonne to Cardinall Saint Low the king of Spaines nephew. With a coppy of their commissiion [sic] against the Protestants, signed unto by the great signet. VVith the names of the rebells now in Newgate.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75525</idno>
+            <idno type="STC">Wing A3583</idno>
+            <idno type="STC">Thomason E137_18</idno>
+            <idno type="STC">ESTC R13679</idno>
+            <idno type="EEBO-CITATION">99859519</idno>
+            <idno type="PROQUEST">99859519</idno>
+            <idno type="VID">156501</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75525)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156501)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E137[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The apprehending of Captayne Butler at Portchmouth in the county of Southampton and his followers, who were bound with bullets and ammunition for Ireland, in the shipp called the Olive As also the true relation of a terrible sea fight by the States of Holland, against a fleet of the Spannish being furnished with men and ammonition [sic] for assistance to the rebels in Irland [sic] wherein was taken 23 sayle of their ships, as also their vice-admirall Don Eaustans sonne to Cardinall Saint Low the king of Spaines nephew. With a coppy of their commissiion [sic] against the Protestants, signed unto by the great signet. VVith the names of the rebells now in Newgate.</title>
+               </titleStmt>
+               <extent>[2], 6 p. : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F.C. and T.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: "tenth of January 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Butler, --  Captayne.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156501:1" rendition="simple:additions"/>
+            <p>THE APPREHENDING of Captayne BVTLER At <hi>Portchmouth</hi> in the County of <hi>Southampton</hi> and his followers, who were bound with bullets and ammunition for <hi>Ireland,</hi> in the Shipp called the <hi>Olive.</hi>
+            </p>
+            <p>As alſo The true relation of a terrible Sea fight by the States of <hi>Holland,</hi> againſt a Fleet of the <hi>Spanniſh</hi> being furniſhed with men and ammonition for aſſiſtance to the Rebels in <hi>Irland</hi>
+            </p>
+            <p>Wherein was taken 23 ſayle of their Ships, as alſo their Vice-admirall <hi>Don Eauſtans</hi> ſonne to <hi>Cardinall</hi> Saint <hi>Low</hi> the King of <hi>Spaines</hi> Nephew.</p>
+            <p>With a coppy of their Commiſſion againſt the Pro<g ref="char:EOLhyphen"/>teſtants, ſigned unto by the greet Signet.</p>
+            <p>With the names of the Rebells now in Newgate.</p>
+            <p>London Printed for <hi>F.C.</hi> and <hi>T.B.</hi> 1641.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:156501:2"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of a sinking ship</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_the_arrest_of_Captain_Butler">
+            <pb facs="tcp:156501:2"/>
+            <head>The true and reall diſcrip<g ref="char:EOLhyphen"/>tion of the apprehending of Cap<g ref="char:EOLhyphen"/>taine <hi>Butler</hi> and his followers, be<g ref="char:EOLhyphen"/>ing bound for aſsiſtance to the Re<g ref="char:EOLhyphen"/>bells in <hi>Ireland.</hi>
+            </head>
+            <p>THe Papiſts have often made bould adven<g ref="char:EOLhyphen"/>tures to ſhew their malicious and ſpleniall intents, towards the Proteſtants, but al<g ref="char:EOLhyphen"/>wayes covering them with a vayle, that their trea<g ref="char:EOLhyphen"/>cheries might be concealed, and not appeare, whereby they might incurre the puniſhment due to their politicall deſignes, but the all ſeeing eye of the Almighty knowes the hearts, and he diſ<g ref="char:EOLhyphen"/>cryes the ill meaning adverſary unto his people, as will appeare by the Sequell.</p>
+            <p>On the ſix and twenteth of <hi>February</hi> laſt, the wind and weather being extreame foule there was beaten in upon the the Roads of <hi>Tarmouth</hi> divers ſhipps loaden with wines, amongeſt the reſt one of them was a French ſhipp called the <hi>Olive</hi> bow which was heavie laden and the men therof ſeem<g ref="char:EOLhyphen"/>ing rather Soldiers, then ſea men which giveing iuſt occation of ſuſpition to the countrie, they forth with offered to ſearch the Shipp but being denyed the ame with out a Commiſſion to that effect, it was left undone for that time, with in two dayes after the ſaid Shipp ſet to Sea, which
+<pb n="2" facs="tcp:156501:3"/>gave the more ſuſpition of feare, inſomuch as in<g ref="char:EOLhyphen"/>teligence being given to one of his maieſties Shippes called the Rambow, who ſet forward af<g ref="char:EOLhyphen"/>ter them but could not cloſe with the ſaid ſhipp, untill they cam eto <hi>Porchmouth</hi> where they found the Sipp Ballaſt with bullets and Ammunition and and their Commiſſion as bound for <hi>Ireland,</hi> thus being diſcovered they were forth with brovght to <hi>London</hi> and commicted to Newgate till it ſhould be further determined by the Parliament.</p>
+            <p>Their names are as followeth.
+<list>
+                  <item>Captaine <hi>Butler.</hi>
+                  </item>
+                  <item>Captaine <hi>Iohn Ryant.</hi>
+                  </item>
+                  <item>
+                     <hi>Adam Gould</hi> merchant.</item>
+                  <item>
+                     <hi>Thomas Levalen.</hi> merchant.</item>
+                  <item>
+                     <hi>Daniell Daily</hi> maſter.</item>
+                  <item>
+                     <list>
+                        <head>ſervants.</head>
+                        <item>
+                           <hi>Morgan Quirke</hi>
+                        </item>
+                        <item>
+                           <hi>Garret Foy.</hi>
+                        </item>
+                        <item>
+                           <hi>Iohn Ryaut.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Nich Baggot.</hi>
+                  </item>
+                  <item>
+                     <hi>Darby Ryaut.</hi>
+                  </item>
+                  <item>
+                     <hi>David Galloway.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Williams.</hi>
+                  </item>
+                  <item>
+                     <hi>Patricke Furlong.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Dym.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Gallaway.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Mattach.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Butler.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The Ship lies at <hi>Portmouth</hi> in <hi>Hampſhire,</hi> and was bound for Corke.</p>
+         </div>
+         <div type="account_of_a_sea_battle">
+            <pb facs="tcp:156501:3"/>
+            <head>THE True relation of a terrible Sea-fight by the States of <hi>Holland</hi> againſt a Fleet of Spaniſh being furniſhed with men, munition, for aſſiſtance to the Rebels in <hi>Ireland.</hi>
+            </head>
+            <p>THe griefes and troubles of a diſeaſed Kingdome, does not alwayes conſiſt invy domeſtick or civill commotions, neither doe the diſtrſſes thereof appeare in all places alike, the friends of a ſtate if perpetually, nouriſht in it's breaſt muſt needs incurre the feare and iuſt appre<g ref="char:EOLhyphen"/>henſion of forraigne dangers, without ſome freind<g ref="char:EOLhyphen"/>ly informations. I muſt confeſſe that the viperous brood of Malignants, are ſo ſuperfluouſly plenti<g ref="char:EOLhyphen"/>full, that it would be no news to nominate thou<g ref="char:EOLhyphen"/>ſands, on whom ſuch a deſerved aſperſion, might iuſtly be impoſed, nay how is the world of late termed to ſuch a relictancy from united opinions that their cannot be a motion though never ſo good and beneficiall to a King or State, but ſoone it finds many both malivolent and potent enemies to ſuppreſſe their good endeavours. The Maſter
+<pb n="4" facs="tcp:156501:4"/>muſt be beholding to his ſervant for the perfor<g ref="char:EOLhyphen"/>mance of his bounden duty, the tenant will not pay his Landlord rent (though due) without ob<g ref="char:EOLhyphen"/>ſequious conſideration nay there be ſubiects, that deny their King his power and legall authority, by open and playne rebellions, as that of <hi>Ireland,</hi> who have not onely uſurped his Maieſties authority but ſhewed themſelves utter and profeſſed ene<g ref="char:EOLhyphen"/>mies to him, their damnable bloody murders committed, and dayly proſecuted againſt his loy<g ref="char:EOLhyphen"/>all Subiects, as alſo by denying his ſupremacy a<g ref="char:EOLhyphen"/>mongſt them, making religion a cloake to uphold them, as blameleſſe in theſe their pernitious de<g ref="char:EOLhyphen"/>ſignes, inviting forraigne nations as aſſiſtants for their defence againſt him, turning his former love into open emnity, ſuch are the contents of the newes, I meane to treate on as followeth.</p>
+            <div type="part">
+               <head>The manner of the meet<g ref="char:EOLhyphen"/>ting of both Fleets, the Battell, and iſſue thereof.</head>
+               <p>THe States-men of warre having dayly intelli<g ref="char:EOLhyphen"/>gence of the Spaniſh intentions, for the ayding of the Iriſh Rebells, and being chary of the wel<g ref="char:EOLhyphen"/>farre, ſafety, and honour of the Engliſh There was Order given that fifty of their principall Ships ſhould be provided as a guard or victory to over<g ref="char:EOLhyphen"/>ſee and watch upon the coaſt of <hi>Flanders</hi> (to repell ſuch forces if any were) of which Collonell <hi>Royſton</hi>
+                  <pb n="5" facs="tcp:156501:4"/>went cheife commander which continued quote<g ref="char:EOLhyphen"/>dially ſcouring thoſe ſcas to conceive where any danger might be, for the ſpace of ſix weeks, all that time the Spaniſh fearing the worſt made no appa<g ref="char:EOLhyphen"/>rition for their intended, But being (as it afterward appeared) continually egged on &amp; perſwaded for<g ref="char:EOLhyphen"/>ward by the Rebells to take their enterpriſe of aſi<g ref="char:EOLhyphen"/>ſtance in hand, they ſet ſayle from <hi>Mourney</hi> neere <hi>Maligo,</hi> with the number of 70. Saile of Shipping, having with them <hi>Don Luc<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>treſe</hi> Admirall, and <hi>Don Eauſteans</hi> Son to Cardinall Saint <hi>Low</hi> Viceadmirall of their fleet, their ſhipps wherein they rowed carrying with them, one <hi>Saucie Marie Delphos.</hi> two <hi>Lep<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tulcule,</hi> both ſhipps of great note, and therefore moſt fit for ſuch great perſonages. They ſteered their courſe as for the <hi>Weſt Indyes</hi> paſſing by <hi>Malligo Garvier, Landſip, delos Cater, Ligeurud, Ma<g ref="char:EOLhyphen"/>nuſtrell</hi> partes and had almoſt paſt <hi>Planders,</hi> but be<g ref="char:EOLhyphen"/>ing diſcryed by the dutch men of ware, they hoyſed faile to meete them, and ſume tenn leagues beyond the Channell, begune the encounter, the <hi>Spaniards</hi> proffering parly and divers excuſes to prolonge the time from battell, which was granted, by the which meanes <hi>Don leocotreſe</hi> with tenn ſhipps more ſtole away by night, to the great diſpleaſure of the <hi>Holander,</hi> who perceiving their Cowardiſe plyed them ſo ſoundly with bullets that ſtaied behind that many of them weare ſunke others is boorded by the duch as the <hi>Le Petriſcula,</hi> where in was <hi>Don Eauſtance</hi> the Viceadmirall with twentie three more of their ſhips, the men where<g ref="char:EOLhyphen"/>of they tooke priſoners, who upon examination
+<pb n="6" facs="tcp:156501:5"/>confeſſed their intended Iorney for <hi>Ireland,</hi> as alſo they received their Commiſſion, granted to <hi>Don Eauſtance,</hi> the contents wherof following.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="commission_granting_troop_transport">
+                           <head>The coppy of the Com<g ref="char:EOLhyphen"/>miſsion granted to <hi>Don Eauſtans,</hi> for his forces to be tranſported into <hi>Ireland.</hi>
+                           </head>
+                           <p>Where as we haveing received divers petitions from the Roman Catho<g ref="char:EOLhyphen"/>lick; concerning their preſent dan<g ref="char:EOLhyphen"/>ger by the Proteſtant partie now growing ſtronge againſt them, deſireing ayde and aſſiſtance againſt them, we out of our princly Clemencie, have and doe in the preſence of my preſent counſell, give power and authoritie unto our kinſeman <hi>Don Eau<g ref="char:EOLhyphen"/>ſtans</hi> to berſecute and trouble all Proteſtants in <hi>Ireland,</hi> according as he ſhall ſee good reſerveing to himſelfe from the Iriſh, (for his ſo deſerveing ſervice) ſuch honours as ſhall be thought conveni<g ref="char:EOLhyphen"/>ent.</p>
+                           <closer>
+                              <dateline>Given under our hands <hi>Malligo</hi> 
+                                 <date>this tenth of Ianuary 1642</date>.</dateline>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
